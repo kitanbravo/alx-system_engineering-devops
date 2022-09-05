@@ -1,1 +1,1 @@
-my first scripting
+shell redirection
